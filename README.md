@@ -1,0 +1,1 @@
+输入 `node-dev server.js 8888`运行
